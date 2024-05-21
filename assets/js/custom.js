@@ -135,7 +135,7 @@
 
       $("#downloadBtn").click(function(e) {
         e.preventDefault();
-        var url = 'https://drive.google.com/uc?export=download&id=1CE63TNC9V2bScUd1a5PjHvaErQa7mZo2';
+        var url = 'https://drive.google.com/uc?export=download&id=12e5PNe-OGt6Ljb1uOSexuCXWoFO7SRLF';
         var filename = 'ranjith-cv.pdf';
         var atag = document.createElement('a');
         atag.href = url;
