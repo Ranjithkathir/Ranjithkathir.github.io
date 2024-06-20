@@ -132,11 +132,10 @@
           },
         },
       });
-      https://drive.google.com/file/d/1bk8RUyFRwSWDbZSdtW26morii8Day-xl/view?usp=sharing
 
       $("#downloadBtn").click(function(e) {
         e.preventDefault();
-        var url = 'https://drive.google.com/uc?export=download&id=1JF0MlDTrcmWXcswvDLeJmu42BBlVXt4L';
+        var url = 'https://drive.google.com/uc?export=download&id=1bk8RUyFRwSWDbZSdtW26morii8Day-xl';
         var filename = 'ranjith-cv.pdf';
         var atag = document.createElement('a');
         atag.href = url;
